@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on OnPoint
-- 🌱 I’m currently learning react js and elixir
+- 🌱 I’m currently learning react js
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenquoctrung&show_icons=true&locale=en" alt="nguyenquoctrung" /></p>
 
