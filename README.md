@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning Elixir, AI...
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenquoctrung&show_icons=true&locale=en" alt="nguyenquoctrung" /></p>
 
